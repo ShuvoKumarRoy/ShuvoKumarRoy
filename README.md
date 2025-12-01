@@ -35,6 +35,9 @@ Cybersecurity  ███████░░░░░░  50%
 | Introduction to Cybersecurity | Cisco Networking Academy | May 2025   | [View](https://www.credly.com/badges/3e4fc105-ef9d-4ad3-a66b-bf6434e4bf26/public_url) |
 | Introduction to Data Science | Cisco Networking Academy  | May 2025   | [View](https://www.credly.com/badges/78252204-837c-4cb7-a11d-69328c059122/public_url) |
 | Introduction to Modern AI    | Cisco Networking Academy  | March 2023 | [View](https://www.credly.com/badges/d379c301-14f3-4190-9193-e74fdc49303d/public_url) |
+| Introduction to Modern AI    | Cisco Networking Academy  | March 2023 | [View](https://www.credly.com/badges/d379c301-14f3-4190-9193-e74fdc49303d/public_url) |
+| CCNA 200-301 exam            | Udemy                     | July 2025  | [View](http://ude.my/UC-1e0079e8-46c7-4464-bf13-256615e430b3)                         |
+| MTCNA T & VC Preparation     | Cisco Networking Academy  | March 2023 | [View](http://ude.my/UC-12bf9db9-9f77-43b1-a5b3-7931d0388f56)                         |
 
 ---
 
